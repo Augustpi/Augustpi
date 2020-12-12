@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Digitastic
+- 🔭 I’m currently working on web apps with (plain/vanilla) JavaScript at Digitastic.de
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/avni-onur-pehlivan-5005b018/)
-- ⚡ Fun fact: ... I'm dealing with the data structure and algorithm
+- ⚡ Fun fact: I'm dealing with the data structure and algorithm (I love Dartlang and flutter)
 
 ### Connect with me:
 [<img align="left" alt="Avni Onur Pehlivan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AvniOnur)
