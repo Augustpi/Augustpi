@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ### Hi I am Avni Onur Pehlivan 👋
+#### In short, I passionately love **JavaScript** and although I am not writing these days, I do love **Dart** and **Flutter**.
 
-Here are some ideas to get you started:
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Dart](https://dart.dev/), [Flutter](https://flutter.dev/)
 
-- 🔭 I’m currently working on web apps with (plain/vanilla) JavaScript at Digitastic.de
-- 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/avni-onur-pehlivan-5005b018/)
-- ⚡ Fun fact: I'm dealing with the data structure and algorithm (I love Dartlang and flutter)
+- 🔭  I’m currently working on web apps with (plain/vanilla) JavaScript at Digitastic.de
+- 💬  Ask me about anything
+- 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/avni-onur-pehlivan-5005b018/)
+- ⚡  I love frontend development and UX, I'm dealing with the data structure and algorithm (I love Dartlang and flutter)
 
 ### Connect with me:
 [<img align="left" alt="Avni Onur Pehlivan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AvniOnur)
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: My GitHub Stats</summary>
 
   <img align="left" alt="mrtdmrmrt's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Augustpi&show_icons=true&hide_border=true" />
 
