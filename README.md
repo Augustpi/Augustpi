@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
+![](https://komarev.com/ghpvc/?username=Augustpi&color=blue&label=Profile+Views)
 ---
 
 <details>
