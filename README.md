@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi I am Avni Onur Pehlivan 👋
-#### In short, I passionately love **JavaScript** and although I am not writing these days, I do love **Dart** and **Flutter**.
+#### In short, I passionately love **JavaScript** and although I am not writing these days, I love **Dart** and **Flutter**.
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Dart](https://dart.dev/), [Flutter](https://flutter.dev/)
 
