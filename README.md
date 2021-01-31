@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Dart](https://dart.dev/), [Flutter](https://flutter.dev/)
 
 - 🔭  I’m currently working on web apps with Vanilla JavaScript at Digitastic.de
-- 💬  Ask me about anything
+- 💬  You can ask me anything
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/avni-onur-pehlivan-5005b018/)
 - ⚡  I love frontend development and UX, I'm dealing with the data structure and algorithm (I love Dartlang and flutter)
 
