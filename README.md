@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <!-- 🔭  I’m currently working on web apps with Vanilla JavaScript at Digitastic.de -->
 - 💬  You can ask me anything
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/avni-onur-pehlivan-5005b018/)
+- 📫  You can read my articles on Medium.com: [Link](https://avnionur.medium.com/)
 - ⚡  I love frontend development and UX, I'm dealing with the data structure and algorithm (I love Dartlang and flutter)
 
 ### Connect with me:
